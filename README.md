@@ -3,13 +3,13 @@
 
   ## About Me
 
-  - 🔭 I’m currently working on various exciting projects
-  - 🌱 I’m currently learning advanced JavaScript and Python
-  - 👯 I’m looking to collaborate on open-source projects
-  - 🤔 I’m looking for help with machine learning
-  - 💬 Ask me about web development, algorithms, and gaming
-  - 📫 How to reach me: kav3r@example.com
-  - ⚡ Fun fact: I love hiking and video games
+   🔭 I’m currently working on various exciting projects
+   🌱 I’m currently learning advanced JavaScript and Python
+   👯 I’m looking to collaborate on open-source projects
+   🤔 I’m looking for help with machine learning
+   💬 Ask me about web development, algorithms, and gaming
+   📫 How to reach me: kav3r@catflux.hu
+   ⚡ Fun fact: I love hiking and video games
 
   ## GitHub Stats
 
