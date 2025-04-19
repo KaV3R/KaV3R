@@ -9,7 +9,7 @@
   - 👯 I’m looking to collaborate on open-source projects
   - 🤔 I’m looking for help with machine learning
   - 💬 Ask me about web development, algorithms, and gaming
-  - 📫 How to reach me: kav3r@catflux.hu
+  - 📫 How to reach me: contact@catflux.hu
   - ⚡ Fun fact: I love hiking and video games
 
   ## GitHub Stats
