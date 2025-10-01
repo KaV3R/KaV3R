@@ -34,7 +34,4 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-heimberger-268656280)
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/KaV3Rcsgo)
 
-  ## Visitor Count
-
-  ![Visitor Count](https://profile-counter.glitch.me/KaV3R/count.svg)
 </div>
