@@ -24,10 +24,6 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=KaV3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  ## Recent Activity
-
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
 
   ## Connect with me:
 
