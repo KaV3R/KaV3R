@@ -5,12 +5,12 @@
   ## About Me
 
   - 🔭 I’m currently working on various exciting projects
-  - 🌱 I’m currently learning advanced JavaScript and Python
-  - 👯 I’m looking to collaborate on open-source projects
+  - 🌱 I’m currently learning advanced Unreal Engine 5.7
+  - 👯 I’m /looking/ to collaborate on open-source projects
   - 🤔 I’m looking for help with machine learning
   - 💬 Ask me about web development, algorithms, and gaming
-  - 📫 How to reach me: contact@catflux.hu
-  - ⚡ Fun fact: I love hiking and video games
+  - 📫 How to reach me: contact@catflux.hu & Discord: ricsi3171
+  - ⚡ Fun fact: I love sitcoms and video games
 
   ## GitHub Stats
 
