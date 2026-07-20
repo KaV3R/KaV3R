@@ -1,33 +1,140 @@
 <div align="center">
-  <h1>Hi there, I'm KaV3R! 👋</h1>
-  
 
-  ## About Me
+# 👋 Hey, I'm Richard
 
-  - 🔭 I’m currently working on various exciting projects
-  - 🌱 I’m currently learning advanced Unreal Engine 5.7
-  - 👯 I’m /looking/ to collaborate on open-source projects
-  - 🤔 I’m looking for help with machine learning
-  - 💬 Ask me about web development, algorithms, and gaming
-  - 📫 How to reach me: contact@catflux.hu & Discord: ricsi3171
-  - ⚡ Fun fact: I love sitcoms and video games
+### 🚀 Full Stack Developer • System Administrator • Linux Enthusiast
 
-  ## GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+CatFlux+Projects;Backend+%7C+Frontend+%7C+Linux;Always+Learning+Something+New" />
 
-  ![KaV3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaV3R&show_icons=true&theme=radical)
+</div>
 
-  ## Top Languages
+---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaV3R&layout=compact&theme=radical)
+# 💻 About Me
 
-  ## GitHub Profile Trophy
+- 🇭🇺 From Hungary
+- 🖥️ Full Stack Web Developer
+- ⚡ Linux & Server Administration
+- 🌐 Building the **CatFlux** ecosystem
+- 🎮 Gamer & Sim Racing enthusiast
+- ☕ Always optimizing performance
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=KaV3R&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+# 🚀 Current Projects
 
-  ## Connect with me:
+### 🌍 CatFlux Network
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-heimberger-268656280)
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/KaV3Rcsgo)
+- 🎥 CatFlux Video
+- 📤 CatFlux Upload
+- 💬 CatFlux Social
+- 🌐 CatFlux Browser
+- 💻 CatFluxOS
+- 📊 Assetto Corsa Leaderboards
+- 🎮 Game Servers
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+---
+
+## Backend
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+---
+
+## Operating Systems
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Windows](https://skillicons.dev/icons?i=windows)
+
+---
+
+## Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⚙️ Favorite Technologies
+
+```text
+Backend      ████████████████████ 100%
+
+Linux        ███████████████████ 95%
+
+C#           ██████████████████   90%
+
+Python       █████████████████    85%
+
+PHP          ███████████████      80%
+
+JavaScript   ██████████████       75%
+```
+
+---
+
+# 💡 Quote
+
+> "Code. Optimize. Repeat."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
 </div>
